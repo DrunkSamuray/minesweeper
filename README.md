@@ -7,6 +7,8 @@ This repository is my first experience with GitHub. Minesweeper is very funny an
 
 ![myImage](https://tinypic.host/images/2022/07/25/game_look.jpg)
 
+The menu is visible only in pause mode. In game mode all the surface available.
+
 ## Known issues
 The provided exe does not run on Windows 10 LTSC. It reports an error instead, "libgcc_s_sjlj-1.dll not found".
 
